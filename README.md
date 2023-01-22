@@ -17,10 +17,18 @@
   https://github.com/S-a-l-i-h-a/SeleniumTestingProject
    
  
- <p> Selenium Testing done using Java language testing the properties of Deichman online shop page </p>
+ <p> Selenium Testing done using Java language testing the properties of Deichman online shop page
+ <br>
+ All additional info about the project you can find in the <a href="https://github.com/S-a-l-i-h-a/SeleniumTestingProject/blob/master/Project%20Documentation%20-%20Deichman.pdf"> Project Documentation </a> 
+ 
+
+ </p>
     <br />
-    <br />
-    Project done in Eclipse 
+    Project done in Eclipse   
   </p>
+  <br>
+  
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlPKdTZBUad93MNPRLUMIctDQSlXi3XmLUEQ&usqp=CAU" >
+  
 </div>
 
